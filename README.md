@@ -2,12 +2,23 @@
 
 This repository contains teaching materials for data science workshops and short courses offered by the Mallick Lab at Cornell University.
 
-# Past Workshops:
+A subset of the materials is hosted here: [https://github.com/omicsEye/Workshop].
 
-GWU 2021 
-SDSU 2022
-JSM 2023
+# Past Workshops 
 
-# Next Workshop:
+- **GWU 2021, Omics Data Science**  
+  Virtual, in collaboration with Ali Rahnavard
 
-IISA 2024
+- **SDSU Data Science Symposium 2022, Omics Data Science**  
+  Brookings, SD, in collaboration with Ali Rahnavard
+
+- **JSM 2023, Omics Data Science**  
+  Toronto, ON, in collaboration with Ali Rahnavard
+
+# Upcoming
+
+- **IISA 2024, Omics Data Science**  
+  Kochi, Kerala, India
+
+- **ENAR 2025, Statistical Methods for Biomarker Discovery Using Metabolomics**  
+  New Orleans, LA in collaboration with Ali Rahnavard

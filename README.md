@@ -1,2 +1,6 @@
 # OmicsDataScienceWorkshop
-This repository contains self-paced tutorials related to the short course ‘Omics Data Science,’ offered by the Mallick Lab.
+This repository contains self-paced tutorials related to the short course ‘Omics Data Science,’ offered by the Mallick Lab, Cornell University.
+
+# Next Workshop:
+
+IISA 2024

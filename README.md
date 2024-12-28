@@ -2,7 +2,7 @@
 
 This repository contains teaching materials for data science workshops and short courses offered by the Mallick Lab at Cornell University.
 
-A subset of the materials is hosted here: [https://github.com/omicsEye/Workshop].
+A subset of the materials is hosted [here](https://github.com/omicsEye/Workshop).
 
 # Past Workshops 
 

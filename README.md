@@ -15,10 +15,10 @@ A subset of the materials is hosted [here](https://github.com/omicsEye/Workshop)
 - **JSM 2023, Orchestrating Biomarker Discovery and Pathway Enrichment Using Multi-Omics Integration and Data Science**  
   Toronto, ON, in collaboration with Ali Rahnavard
 
-# Upcoming
-
 - **IISA 2024, Omics Data Science**  
   Kochi, Kerala, India
+
+  # Upcoming
 
 - **ENAR 2025, Statistical Methods for Biomarker Discovery Using Metabolomics**  
   New Orleans, LA in collaboration with Ali Rahnavard

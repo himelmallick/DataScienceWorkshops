@@ -12,7 +12,7 @@ A subset of the materials is hosted [here](https://github.com/omicsEye/Workshop)
 - **SDSU Data Science Symposium 2022, Omics Data Science**  
   Brookings, SD, in collaboration with Ali Rahnavard
 
-- **JSM 2023, Omics Data Science**  
+- **JSM 2023, Orchestrating Biomarker Discovery and Pathway Enrichment Using Multi-Omics Integration and Data Science**  
   Toronto, ON, in collaboration with Ali Rahnavard
 
 # Upcoming

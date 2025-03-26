@@ -18,6 +18,9 @@ A subset of the materials is hosted [here](https://github.com/omicsEye/Workshop)
 - **SDSU Data Science Symposium 2022, Omics Data Science**  
   Brookings, SD, USA, in collaboration with Ali Rahnavard
 
+- **ICSA 2021, Biomarker Discovery and Pathway Enrichment Analysis of Omics Data**  
+  Virtual, in collaboration with Ali Rahnavard
+
 - **GWU 2021, Omics Data Science**  
   Virtual, in collaboration with Ali Rahnavard
 

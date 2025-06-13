@@ -6,6 +6,9 @@ A subset of the materials is hosted [here](https://github.com/omicsEye/Workshop)
 
 # Past Workshops 
 
+- **IISA 2025, [Multimodal Causal Inference for Data Science and Biomedical Research](https://www.intindstat.org/conference2025/shortCourses)**  
+  Lincoln, NE
+
 - **ENAR 2025, Statistical Methods for Biomarker Discovery Using Metabolomics**  
   New Orleans, LA, USA in collaboration with Ali Rahnavard
   
@@ -23,8 +26,3 @@ A subset of the materials is hosted [here](https://github.com/omicsEye/Workshop)
 
 - **GWU 2021, Omics Data Science**  
   Virtual, in collaboration with Ali Rahnavard
-
-  # Upcoming
-
-- **IISA 2025, [Multimodal Causal Inference for Data Science and Biomedical Research](https://www.intindstat.org/conference2025/shortCourses)**  
-  Lincoln, NE

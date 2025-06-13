@@ -6,7 +6,7 @@ A subset of the materials is hosted [here](https://github.com/omicsEye/Workshop)
 
 # Past Workshops 
 
-- **IISA 2025, [Multimodal Causal Inference for Data Science and Biomedical Research](https://www.intindstat.org/conference2025/shortCourses)**  
+- **IISA 2025, Multimodal Causal Inference for Data Science and Biomedical Research**  
   Lincoln, NE
 
 - **ENAR 2025, Statistical Methods for Biomarker Discovery Using Metabolomics**  

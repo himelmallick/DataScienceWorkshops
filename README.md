@@ -29,4 +29,4 @@ A subset of the materials is hosted [here](https://github.com/omicsEye/Workshop)
 
   # Future Workshops
 
-  - **NESS 2026, TBD**
+- **NESS 2026, TBD**

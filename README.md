@@ -26,3 +26,7 @@ A subset of the materials is hosted [here](https://github.com/omicsEye/Workshop)
 
 - **GWU 2021, Omics Data Science**  
   Virtual, in collaboration with Ali Rahnavard
+
+  # Future Workshops
+
+  - **NESS 2026, TBD**

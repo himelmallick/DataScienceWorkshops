@@ -20,6 +20,9 @@ A subset of the materials is hosted [here](https://github.com/omicsEye/Workshop)
 - **ISMB 2026, [Multimodal Integration and Multimodal Causal Inference using R/Bioconductor](https://github.com/himelmallick/ISMB2026MultimodalShortCourse)**  
   Virtual, July 6, 2026, in collaboration with Saptarshi Roy and Sreya Sarkar
 
+- **EuroBioC 2026, [Orchestrating Microbiome Analysis with Bioconductor](https://eurobioc2026.bioconductor.org/pages/pre-conference.html)**  
+  Turku, Finland, June 1–2, 2026, in collaboration with Leo Lahti, Thomaz Bastiaanssen, Tuomas Borman, Anna Kaisanlahti and Giulio Benedetti
+
 - **Physalia Courses 2026, [Statistical Methods for Metatranscriptomics](https://www.physalia-courses.org/courses-workshops/metatranscriptomics/)**  
   Online, April 27 to 29, 2026
 

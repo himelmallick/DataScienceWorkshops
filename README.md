@@ -9,6 +9,12 @@ A subset of the materials is hosted [here](https://github.com/omicsEye/Workshop)
 - **ENAR 2027, Multimodal Integration and Multimodal Causal Inference using R/Bioconductor**  
   March 2027
 
+- **Physalia Courses 2027, [Multimodal AI for Systems Biology](https://www.physalia-courses.org/courses-workshops/multimodal-ai/)**  
+  Online, March 2027
+
+- **Inserm 2026, Deep Learning for Biological Data**  
+  December 2026, in collaboration with Jatin Chaudhary
+
 - **Physalia Courses 2026, [Bayesian Methods for Biomedical Data Science](https://www.physalia-courses.org/courses-workshops/bayesian-in-compgen/)**  
   Online, November 30 to December 4, 2026
 

@@ -6,7 +6,7 @@ A subset of the materials is hosted [here](https://github.com/omicsEye/Workshop)
 
 # Upcoming Workshops
 
-- **ENAR 2027, Multimodal Integration and Multimodal Causal Inference using R/Bioconductor**  
+- **ENAR 2027, [Multimodal Integration and Multimodal Causal Inference using R/Bioconductor](https://www.enar.org/meetings/spring2027/program/short_courses.cfm)**  
   March 2027
 
 - **Physalia Courses 2026, [Bayesian Methods for Biomedical Data Science](https://www.physalia-courses.org/courses-workshops/bayesian-in-compgen/)**  

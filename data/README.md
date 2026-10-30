@@ -2,7 +2,7 @@
 
 Course data for **Causal AI Methods for Computational Biology** (Physalia, 2 to 6 November 2026). Download `iHMP_causal.rds` into your course folder.
 
-## 1. iHMP_causal.rds (Days 2, 3, 5)
+## 1. iHMP_causal.rds (Days 3 and 5)
 
 This dataset comes from the Integrative Human Microbiome Project inflammatory bowel disease cohort (HMP2, IBDMDB): people with Crohn disease, ulcerative colitis, and non-IBD controls, followed for up to a year with stool, biopsy, and blood samples.
 
@@ -34,6 +34,10 @@ Tables link through `sample_id` (stool samples) and `participant_id` (people).
 Lloyd-Price J, Arze C, Ananthakrishnan AN, *et al.* (2019). Multi-omics of the gut microbial ecosystem in inflammatory bowel diseases. *Nature* 569: 655-662. Data portal: <https://ibdmdb.org>.
 
 Species profiles and visit metadata follow the HMP2 files distributed with MaAsLin 3 (<https://github.com/biobakery/maaslin3>). The script `build_iHMP_causal.R` reproduces this dataset from the original files.
+
+## Other course data
+
+Day 2 (matching) uses the job training data `lalonde`, which ships with the MatchIt package: `data("lalonde", package = "MatchIt")`.
 
 ## Autism microbiota transfer therapy data (Day 4)
 

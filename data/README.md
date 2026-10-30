@@ -37,6 +37,9 @@ Species profiles and visit metadata follow the HMP2 files distributed with MaAsL
 
 ## Other course data
 
+Day 5 (TMLE) also uses `RLab5_TMLE.csv`, a small teaching dataset (249 rows: covariates W1 to W4, exposure A, outcome Y) from the Weill Cornell causal inference course.
+
+
 Day 2 (matching) uses the job training data `lalonde`, which ships with the MatchIt package: `data("lalonde", package = "MatchIt")`.
 
 ## Autism microbiota transfer therapy data (Day 4)

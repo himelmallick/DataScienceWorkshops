@@ -44,4 +44,4 @@ Day 2 (matching) uses the job training data `lalonde`, which ships with the Matc
 
 ## Autism microbiota transfer therapy data (Day 4)
 
-The autism microbiota transfer therapy (MTT) data used on Day 4 are distributed with the Zentangler R package (https://github.com/himelmallick/Zentangler), which the course install script installs.
+`ASD_MTT.rds`: microbiota transfer therapy (MTT) in 18 children with autism (open label; baseline, week 10, 2-year follow-up), 20 typically developing children sampled once, and the stool donors (Kang et al. 2017, *Microbiome*; Kang et al. 2019, *Scientific Reports*). A list with `species`, `fecal_metabolites`, `plasma_metabolites`, `kos` (each with `features`, `metadata`, `features_metadata`) and `symptoms` (CARS, ABC, SRS, GSRS, Vineland, PGI by time point). The same data are in the Zentangler repository (https://github.com/himelmallick/Zentangler).
